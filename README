@@ -1,7 +1,0 @@
-This test scheme is designed to test the impact of pin threads to cores. the_cores[] is designed as follow:
-static uint8_t __attribute__ ((unused)) the_cores[] = {
-    0, 1, 2, 3, 4, 5, 6, 7,
-    16, 17, 18, 19, 20, 21, 22, 23,
-    8, 9, 10, 11, 12, 13, 14, 15,
-    24, 25, 26, 27, 28, 29, 30, 31
-  };

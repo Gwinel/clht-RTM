@@ -1,0 +1,800 @@
+1 1 8 10 100000000 2 1 # using: CLHT-LB-RESIZE
+## Initial: 1024 / Range: 2048
+## Num buckets: 512 
+Sizeof initial: 53.31 KB = 0.05 MB
+[ALLOC] initializing allocator with fs size: 507 objects
+[ALLOC] initializing allocator with fs size: 507 objects
+#BEFORE size: 1024
+[STATUS-00] #bu:     512 / #elems:    1041 / full%:  67.7734% / expands:  512 / max expands:  1
+[RESIZE-00] to #bu    1024 = MB:    0.06    | took:        165813 ti = 0.000079 s
+    : total      | success    | succ %      | total %
+puts: 3618171    | 1808568    |       50.0% | 10.0%
+gets: 28917464   | 14471275   |       50.0% | 80.0%
+rems: 3615600    | 1808533    |       50.0% | 10.0%
+Sizeof   final:      64.00 KB =       0.06 MB
+[GCOLLE-99] collected: 1   | took:        146940 ti = 0.000070 s
+#txs 1	(36151235  
+#Mops 36.151
+2 2 8 10 100000000 2 1 # using: CLHT-LB-RESIZE
+## Initial: 1024 / Range: 2048
+## Num buckets: 512 
+Sizeof initial: 53.31 KB = 0.05 MB
+[ALLOC] initializing allocator with fs size: 507 objects
+[ALLOC] initializing allocator with fs size: 507 objects
+#BEFORE size: 1024
+[STATUS-00] #bu:     512 / #elems:    1014 / full%:  66.0156% / expands:  512 / max expands:  1
+[RESIZE-00] to #bu    1024 = MB:    0.06    | took:        126015 ti = 0.000060 s
+    : total      | success    | succ %      | total %
+puts: 3610300    | 1804604    |       50.0% | 10.0%
+gets: 28902391   | 14451282   |       50.0% | 80.0%
+rems: 3611175    | 1804600    |       50.0% | 10.0%
+Sizeof   final:      64.00 KB =       0.06 MB
+[GCOLLE-99] collected: 1   | took:        142209 ti = 0.000068 s
+#txs 1	(36123866  
+#Mops 36.124
+3 4 8 10 100000000 2 1 # using: CLHT-LB-RESIZE
+## Initial: 1024 / Range: 2048
+## Num buckets: 512 
+Sizeof initial: 53.31 KB = 0.05 MB
+[ALLOC] initializing allocator with fs size: 507 objects
+[ALLOC] initializing allocator with fs size: 507 objects
+#BEFORE size: 1024
+[STATUS-00] #bu:     512 / #elems:    1027 / full%:  66.8620% / expands:  512 / max expands:  1
+[RESIZE-00] to #bu    1024 = MB:    0.06    | took:        156789 ti = 0.000075 s
+    : total      | success    | succ %      | total %
+puts: 3601415    | 1801498    |       50.0% | 10.0%
+gets: 28847422   | 14409701   |       50.0% | 80.0%
+rems: 3604864    | 1801477    |       50.0% | 10.0%
+Sizeof   final:      64.00 KB =       0.06 MB
+[GCOLLE-99] collected: 1   | took:         70437 ti = 0.000034 s
+#txs 1	(36053701  
+#Mops 36.054
+4 8 8 10 100000000 2 1 # using: CLHT-LB-RESIZE
+## Initial: 1024 / Range: 2048
+## Num buckets: 512 
+Sizeof initial: 53.31 KB = 0.05 MB
+[ALLOC] initializing allocator with fs size: 507 objects
+[ALLOC] initializing allocator with fs size: 507 objects
+#BEFORE size: 1024
+[STATUS-00] #bu:     512 / #elems:    1048 / full%:  68.2292% / expands:  512 / max expands:  1
+[RESIZE-00] to #bu    1024 = MB:    0.06    | took:        130659 ti = 0.000062 s
+    : total      | success    | succ %      | total %
+puts: 3579561    | 1790040    |       50.0% | 10.0%
+gets: 28651447   | 14327478   |       50.0% | 80.0%
+rems: 3578426    | 1790074    |       50.0% | 10.0%
+Sizeof   final:      64.00 KB =       0.06 MB
+[GCOLLE-99] collected: 1   | took:         72777 ti = 0.000035 s
+#txs 1	(35809434  
+#Mops 35.809
+5 16 8 10 100000000 2 1 # using: CLHT-LB-RESIZE
+## Initial: 1024 / Range: 2048
+## Num buckets: 512 
+Sizeof initial: 53.31 KB = 0.05 MB
+[ALLOC] initializing allocator with fs size: 507 objects
+[ALLOC] initializing allocator with fs size: 507 objects
+#BEFORE size: 1024
+[STATUS-00] #bu:     512 / #elems:    1038 / full%:  67.5781% / expands:  512 / max expands:  1
+[RESIZE-00] to #bu    1024 = MB:    0.06    | took:        158748 ti = 0.000076 s
+    : total      | success    | succ %      | total %
+puts: 3578376    | 1789579    |       50.0% | 10.0%
+gets: 28635376   | 14314909   |       50.0% | 80.0%
+rems: 3580421    | 1789585    |       50.0% | 10.0%
+Sizeof   final:      64.00 KB =       0.06 MB
+[GCOLLE-99] collected: 1   | took:         70707 ti = 0.000034 s
+#txs 1	(35794173  
+#Mops 35.794
+6 32 8 10 100000000 2 1 # using: CLHT-LB-RESIZE
+## Initial: 1024 / Range: 2048
+## Num buckets: 512 
+Sizeof initial: 53.31 KB = 0.05 MB
+[ALLOC] initializing allocator with fs size: 507 objects
+[ALLOC] initializing allocator with fs size: 507 objects
+#BEFORE size: 1024
+[STATUS-00] #bu:     512 / #elems:     986 / full%:  64.1927% / expands:  512 / max expands:  1
+[RESIZE-00] to #bu    1024 = MB:    0.06    | took:        134166 ti = 0.000064 s
+    : total      | success    | succ %      | total %
+puts: 3580826    | 1791094    |       50.0% | 10.0%
+gets: 28648814   | 14321045   |       50.0% | 80.0%
+rems: 3581442    | 1791070    |       50.0% | 10.0%
+Sizeof   final:      64.00 KB =       0.06 MB
+[GCOLLE-99] collected: 1   | took:         77139 ti = 0.000037 s
+#txs 1	(35811082  
+#Mops 35.811
+7 1 10 10 100000000 2 1 # using: CLHT-LB-RESIZE
+## Initial: 1024 / Range: 2048
+## Num buckets: 512 
+Sizeof initial: 53.31 KB = 0.05 MB
+[ALLOC] initializing allocator with fs size: 507 objects
+[ALLOC] initializing allocator with fs size: 507 objects
+#BEFORE size: 1024
+[STATUS-00] #bu:     512 / #elems:    1022 / full%:  66.5365% / expands:  512 / max expands:  1
+[RESIZE-00] to #bu    1024 = MB:    0.06    | took:        158556 ti = 0.000076 s
+    : total      | success    | succ %      | total %
+puts: 3602246    | 1802721    |       50.0% | 10.0%
+gets: 28827919   | 14404542   |       50.0% | 80.0%
+rems: 3606789    | 1802750    |       50.0% | 10.0%
+Sizeof   final:      64.00 KB =       0.06 MB
+[GCOLLE-99] collected: 1   | took:         70926 ti = 0.000034 s
+#txs 1	(36036954  
+#Mops 36.037
+8 2 10 10 100000000 2 1 # using: CLHT-LB-RESIZE
+## Initial: 1024 / Range: 2048
+## Num buckets: 512 
+Sizeof initial: 53.31 KB = 0.05 MB
+[ALLOC] initializing allocator with fs size: 507 objects
+[ALLOC] initializing allocator with fs size: 507 objects
+#BEFORE size: 1024
+[STATUS-00] #bu:     512 / #elems:    1024 / full%:  66.6667% / expands:  512 / max expands:  1
+[RESIZE-00] to #bu    1024 = MB:    0.06    | took:        131973 ti = 0.000063 s
+    : total      | success    | succ %      | total %
+puts: 3580379    | 1790201    |       50.0% | 10.0%
+gets: 28661046   | 14320756   |       50.0% | 80.0%
+rems: 3580905    | 1790167    |       50.0% | 10.0%
+Sizeof   final:      64.00 KB =       0.06 MB
+[GCOLLE-99] collected: 1   | took:         76791 ti = 0.000037 s
+#txs 1	(35822330  
+#Mops 35.822
+9 4 10 10 100000000 2 1 # using: CLHT-LB-RESIZE
+## Initial: 1024 / Range: 2048
+## Num buckets: 512 
+Sizeof initial: 53.31 KB = 0.05 MB
+[ALLOC] initializing allocator with fs size: 507 objects
+[ALLOC] initializing allocator with fs size: 507 objects
+#BEFORE size: 1024
+[STATUS-00] #bu:     512 / #elems:    1020 / full%:  66.4062% / expands:  512 / max expands:  1
+[RESIZE-00] to #bu    1024 = MB:    0.06    | took:        154452 ti = 0.000074 s
+    : total      | success    | succ %      | total %
+puts: 3572689    | 1788190    |       50.1% | 10.0%
+gets: 28592192   | 14296213   |       50.0% | 80.0%
+rems: 3573822    | 1788171    |       50.0% | 10.0%
+Sizeof   final:      64.00 KB =       0.06 MB
+[GCOLLE-99] collected: 1   | took:        135465 ti = 0.000065 s
+#txs 1	(35738703  
+#Mops 35.739
+10 8 10 10 100000000 2 1 # using: CLHT-LB-RESIZE
+## Initial: 1024 / Range: 2048
+## Num buckets: 512 
+Sizeof initial: 53.31 KB = 0.05 MB
+[ALLOC] initializing allocator with fs size: 507 objects
+[ALLOC] initializing allocator with fs size: 507 objects
+#BEFORE size: 1024
+[STATUS-00] #bu:     512 / #elems:     975 / full%:  63.4766% / expands:  512 / max expands:  1
+[RESIZE-00] to #bu    1024 = MB:    0.06    | took:        130254 ti = 0.000062 s
+    : total      | success    | succ %      | total %
+puts: 3580701    | 1790355    |       50.0% | 10.0%
+gets: 28660729   | 14324277   |       50.0% | 80.0%
+rems: 3580901    | 1790364    |       50.0% | 10.0%
+Sizeof   final:      64.00 KB =       0.06 MB
+[GCOLLE-99] collected: 1   | took:        142017 ti = 0.000068 s
+#txs 1	(35822331  
+#Mops 35.822
+11 16 10 10 100000000 2 1 # using: CLHT-LB-RESIZE
+## Initial: 1024 / Range: 2048
+## Num buckets: 512 
+Sizeof initial: 53.31 KB = 0.05 MB
+[ALLOC] initializing allocator with fs size: 507 objects
+[ALLOC] initializing allocator with fs size: 507 objects
+#BEFORE size: 1024
+[STATUS-00] #bu:     512 / #elems:    1002 / full%:  65.2344% / expands:  512 / max expands:  1
+[RESIZE-00] to #bu    1024 = MB:    0.06    | took:        134844 ti = 0.000064 s
+    : total      | success    | succ %      | total %
+puts: 3581146    | 1790159    |       50.0% | 10.0%
+gets: 28645688   | 14327832   |       50.0% | 80.0%
+rems: 3580396    | 1790144    |       50.0% | 10.0%
+Sizeof   final:      64.00 KB =       0.06 MB
+[GCOLLE-99] collected: 1   | took:        144726 ti = 0.000069 s
+#txs 1	(35807230  
+#Mops 35.807
+12 32 10 10 100000000 2 1 # using: CLHT-LB-RESIZE
+## Initial: 1024 / Range: 2048
+## Num buckets: 512 
+Sizeof initial: 53.31 KB = 0.05 MB
+[ALLOC] initializing allocator with fs size: 507 objects
+[ALLOC] initializing allocator with fs size: 507 objects
+#BEFORE size: 1024
+[STATUS-00] #bu:     512 / #elems:     988 / full%:  64.3229% / expands:  512 / max expands:  1
+[RESIZE-00] to #bu    1024 = MB:    0.06    | took:        138669 ti = 0.000066 s
+    : total      | success    | succ %      | total %
+puts: 3570725    | 1785712    |       50.0% | 10.0%
+gets: 28582994   | 14284939   |       50.0% | 80.0%
+rems: 3572908    | 1785724    |       50.0% | 10.0%
+Sizeof   final:      64.00 KB =       0.06 MB
+[GCOLLE-99] collected: 1   | took:        148929 ti = 0.000071 s
+#txs 1	(35726627  
+#Mops 35.727
+13 1 20 10 100000000 2 1 # using: CLHT-LB-RESIZE
+## Initial: 1024 / Range: 2048
+## Num buckets: 512 
+Sizeof initial: 53.31 KB = 0.05 MB
+[ALLOC] initializing allocator with fs size: 507 objects
+[ALLOC] initializing allocator with fs size: 507 objects
+#BEFORE size: 1024
+[STATUS-00] #bu:     512 / #elems:    1056 / full%:  68.7500% / expands:  512 / max expands:  1
+[RESIZE-00] to #bu    1024 = MB:    0.06    | took:        134061 ti = 0.000064 s
+    : total      | success    | succ %      | total %
+puts: 3604147    | 1802993    |       50.0% | 10.0%
+gets: 28855938   | 14416035   |       50.0% | 80.0%
+rems: 3606611    | 1803035    |       50.0% | 10.0%
+Sizeof   final:      64.00 KB =       0.06 MB
+[GCOLLE-99] collected: 1   | took:        138135 ti = 0.000066 s
+#txs 1	(36066696  
+#Mops 36.067
+14 2 20 10 100000000 2 1 # using: CLHT-LB-RESIZE
+## Initial: 1024 / Range: 2048
+## Num buckets: 512 
+Sizeof initial: 53.31 KB = 0.05 MB
+[ALLOC] initializing allocator with fs size: 507 objects
+[ALLOC] initializing allocator with fs size: 507 objects
+#BEFORE size: 1024
+[STATUS-00] #bu:     512 / #elems:    1011 / full%:  65.8203% / expands:  512 / max expands:  1
+[RESIZE-00] to #bu    1024 = MB:    0.06    | took:        131946 ti = 0.000063 s
+    : total      | success    | succ %      | total %
+puts: 3581352    | 1790391    |       50.0% | 10.0%
+gets: 28664116   | 14326346   |       50.0% | 80.0%
+rems: 3584467    | 1790381    |       49.9% | 10.0%
+Sizeof   final:      64.00 KB =       0.06 MB
+[GCOLLE-99] collected: 1   | took:         74379 ti = 0.000035 s
+#txs 1	(35829935  
+#Mops 35.830
+15 4 20 10 100000000 2 1 # using: CLHT-LB-RESIZE
+## Initial: 1024 / Range: 2048
+## Num buckets: 512 
+Sizeof initial: 53.31 KB = 0.05 MB
+[ALLOC] initializing allocator with fs size: 507 objects
+[ALLOC] initializing allocator with fs size: 507 objects
+#BEFORE size: 1024
+[STATUS-00] #bu:     512 / #elems:     989 / full%:  64.3880% / expands:  512 / max expands:  1
+[RESIZE-00] to #bu    1024 = MB:    0.06    | took:        155544 ti = 0.000074 s
+    : total      | success    | succ %      | total %
+puts: 3606977    | 1801423    |       49.9% | 10.0%
+gets: 28826442   | 14423515   |       50.0% | 80.0%
+rems: 3604019    | 1801422    |       50.0% | 10.0%
+Sizeof   final:      64.00 KB =       0.06 MB
+[GCOLLE-99] collected: 1   | took:         79722 ti = 0.000038 s
+#txs 1	(36037438  
+#Mops 36.037
+16 8 20 10 100000000 2 1 # using: CLHT-LB-RESIZE
+## Initial: 1024 / Range: 2048
+## Num buckets: 512 
+Sizeof initial: 53.31 KB = 0.05 MB
+[ALLOC] initializing allocator with fs size: 507 objects
+[ALLOC] initializing allocator with fs size: 507 objects
+#BEFORE size: 1024
+[STATUS-00] #bu:     512 / #elems:    1050 / full%:  68.3594% / expands:  512 / max expands:  1
+[RESIZE-00] to #bu    1024 = MB:    0.06    | took:        231390 ti = 0.000110 s
+    : total      | success    | succ %      | total %
+puts: 3579337    | 1790760    |       50.0% | 10.0%
+gets: 28635291   | 14311822   |       50.0% | 80.0%
+rems: 3582317    | 1790740    |       50.0% | 10.0%
+Sizeof   final:      64.00 KB =       0.06 MB
+[GCOLLE-99] collected: 1   | took:         71511 ti = 0.000034 s
+#txs 1	(35796945  
+#Mops 35.797
+17 16 20 10 100000000 2 1 # using: CLHT-LB-RESIZE
+## Initial: 1024 / Range: 2048
+## Num buckets: 512 
+Sizeof initial: 53.31 KB = 0.05 MB
+[ALLOC] initializing allocator with fs size: 507 objects
+[ALLOC] initializing allocator with fs size: 507 objects
+#BEFORE size: 1024
+[STATUS-00] #bu:     512 / #elems:    1069 / full%:  69.5964% / expands:  512 / max expands:  1
+[RESIZE-00] to #bu    1024 = MB:    0.06    | took:        132300 ti = 0.000063 s
+    : total      | success    | succ %      | total %
+puts: 3578047    | 1789804    |       50.0% | 10.0%
+gets: 28644795   | 14316535   |       50.0% | 80.0%
+rems: 3580079    | 1789818    |       50.0% | 10.0%
+Sizeof   final:      64.00 KB =       0.06 MB
+[GCOLLE-99] collected: 1   | took:         73329 ti = 0.000035 s
+#txs 1	(35802921  
+#Mops 35.803
+18 32 20 10 100000000 2 1 # using: CLHT-LB-RESIZE
+## Initial: 1024 / Range: 2048
+## Num buckets: 512 
+Sizeof initial: 53.31 KB = 0.05 MB
+[ALLOC] initializing allocator with fs size: 507 objects
+[ALLOC] initializing allocator with fs size: 507 objects
+#BEFORE size: 1024
+[STATUS-00] #bu:     512 / #elems:    1025 / full%:  66.7318% / expands:  512 / max expands:  1
+[RESIZE-00] to #bu    1024 = MB:    0.06    | took:        153960 ti = 0.000073 s
+    : total      | success    | succ %      | total %
+puts: 3577730    | 1789012    |       50.0% | 10.0%
+gets: 28621478   | 14309296   |       50.0% | 80.0%
+rems: 3579468    | 1789003    |       50.0% | 10.0%
+Sizeof   final:      64.00 KB =       0.06 MB
+[GCOLLE-99] collected: 1   | took:         75162 ti = 0.000036 s
+#txs 1	(35778676  
+#Mops 35.779
+19 1 50 10 100000000 2 1 # using: CLHT-LB-RESIZE
+## Initial: 1024 / Range: 2048
+## Num buckets: 512 
+Sizeof initial: 53.31 KB = 0.05 MB
+[ALLOC] initializing allocator with fs size: 507 objects
+[ALLOC] initializing allocator with fs size: 507 objects
+#BEFORE size: 1024
+[STATUS-00] #bu:     512 / #elems:    1042 / full%:  67.8385% / expands:  512 / max expands:  1
+[RESIZE-00] to #bu    1024 = MB:    0.06    | took:        157062 ti = 0.000075 s
+    : total      | success    | succ %      | total %
+puts: 3597282    | 1798504    |       50.0% | 10.0%
+gets: 28799951   | 14393751   |       50.0% | 80.0%
+rems: 3599299    | 1798511    |       50.0% | 10.0%
+Sizeof   final:      64.00 KB =       0.06 MB
+[GCOLLE-99] collected: 1   | took:        136542 ti = 0.000065 s
+#txs 1	(35996532  
+#Mops 35.997
+20 2 50 10 100000000 2 1 # using: CLHT-LB-RESIZE
+## Initial: 1024 / Range: 2048
+## Num buckets: 512 
+Sizeof initial: 53.31 KB = 0.05 MB
+[ALLOC] initializing allocator with fs size: 507 objects
+[ALLOC] initializing allocator with fs size: 507 objects
+#BEFORE size: 1024
+[STATUS-00] #bu:     512 / #elems:    1043 / full%:  67.9036% / expands:  512 / max expands:  1
+[RESIZE-00] to #bu    1024 = MB:    0.06    | took:        179247 ti = 0.000085 s
+    : total      | success    | succ %      | total %
+puts: 3570935    | 1785279    |       50.0% | 10.0%
+gets: 28559959   | 14278420   |       50.0% | 80.0%
+rems: 3569290    | 1785266    |       50.0% | 10.0%
+Sizeof   final:      64.00 KB =       0.06 MB
+[GCOLLE-99] collected: 1   | took:         70914 ti = 0.000034 s
+#txs 1	(35700184  
+#Mops 35.700
+21 4 50 10 100000000 2 1 # using: CLHT-LB-RESIZE
+## Initial: 1024 / Range: 2048
+## Num buckets: 512 
+Sizeof initial: 53.31 KB = 0.05 MB
+[ALLOC] initializing allocator with fs size: 507 objects
+[ALLOC] initializing allocator with fs size: 507 objects
+#BEFORE size: 1024
+[STATUS-00] #bu:     512 / #elems:    1044 / full%:  67.9688% / expands:  512 / max expands:  1
+[RESIZE-00] to #bu    1024 = MB:    0.06    | took:        129807 ti = 0.000062 s
+    : total      | success    | succ %      | total %
+puts: 3597664    | 1798468    |       50.0% | 10.0%
+gets: 28773073   | 14394991   |       50.0% | 80.0%
+rems: 3595189    | 1798474    |       50.0% | 10.0%
+Sizeof   final:      64.00 KB =       0.06 MB
+[GCOLLE-99] collected: 1   | took:         83118 ti = 0.000040 s
+#txs 1	(35965926  
+#Mops 35.966
+22 8 50 10 100000000 2 1 # using: CLHT-LB-RESIZE
+## Initial: 1024 / Range: 2048
+## Num buckets: 512 
+Sizeof initial: 53.31 KB = 0.05 MB
+[ALLOC] initializing allocator with fs size: 507 objects
+[ALLOC] initializing allocator with fs size: 507 objects
+#BEFORE size: 1024
+[STATUS-00] #bu:     512 / #elems:    1013 / full%:  65.9505% / expands:  512 / max expands:  1
+[RESIZE-00] to #bu    1024 = MB:    0.06    | took:        164655 ti = 0.000078 s
+    : total      | success    | succ %      | total %
+puts: 3636986    | 1819807    |       50.0% | 10.0%
+gets: 29115085   | 14548642   |       50.0% | 80.0%
+rems: 3639503    | 1819805    |       50.0% | 10.0%
+Sizeof   final:      64.00 KB =       0.06 MB
+[GCOLLE-99] collected: 1   | took:         70488 ti = 0.000034 s
+#txs 1	(36391574  
+#Mops 36.392
+23 16 50 10 100000000 2 1 # using: CLHT-LB-RESIZE
+## Initial: 1024 / Range: 2048
+## Num buckets: 512 
+Sizeof initial: 53.31 KB = 0.05 MB
+[ALLOC] initializing allocator with fs size: 507 objects
+[ALLOC] initializing allocator with fs size: 507 objects
+#BEFORE size: 1024
+[STATUS-00] #bu:     512 / #elems:    1031 / full%:  67.1224% / expands:  512 / max expands:  1
+[RESIZE-00] to #bu    1024 = MB:    0.06    | took:        148797 ti = 0.000071 s
+    : total      | success    | succ %      | total %
+puts: 3632661    | 1816437    |       50.0% | 10.0%
+gets: 29044401   | 14529193   |       50.0% | 80.0%
+rems: 3629198    | 1816424    |       50.1% | 10.0%
+Sizeof   final:      64.00 KB =       0.06 MB
+[GCOLLE-99] collected: 1   | took:         72057 ti = 0.000034 s
+#txs 1	(36306260  
+#Mops 36.306
+24 32 50 10 100000000 2 1 # using: CLHT-LB-RESIZE
+## Initial: 1024 / Range: 2048
+## Num buckets: 512 
+Sizeof initial: 53.31 KB = 0.05 MB
+[ALLOC] initializing allocator with fs size: 507 objects
+[ALLOC] initializing allocator with fs size: 507 objects
+#BEFORE size: 1024
+[STATUS-00] #bu:     512 / #elems:    1012 / full%:  65.8854% / expands:  512 / max expands:  1
+[RESIZE-00] to #bu    1024 = MB:    0.06    | took:        134223 ti = 0.000064 s
+    : total      | success    | succ %      | total %
+puts: 3623871    | 1812412    |       50.0% | 10.0%
+gets: 28986910   | 14496620   |       50.0% | 80.0%
+rems: 3621015    | 1812399    |       50.1% | 10.0%
+Sizeof   final:      64.00 KB =       0.06 MB
+[GCOLLE-99] collected: 1   | took:         72672 ti = 0.000035 s
+#txs 1	(36231796  
+#Mops 36.232
+25 1 8 50 100000000 2 1 # using: CLHT-LB-RESIZE
+## Initial: 1024 / Range: 2048
+## Num buckets: 512 
+Sizeof initial: 53.31 KB = 0.05 MB
+[ALLOC] initializing allocator with fs size: 507 objects
+[ALLOC] initializing allocator with fs size: 507 objects
+#BEFORE size: 1024
+[STATUS-00] #bu:     512 / #elems:    1039 / full%:  67.6432% / expands:  512 / max expands:  1
+[RESIZE-00] to #bu    1024 = MB:    0.06    | took:        152931 ti = 0.000073 s
+    : total      | success    | succ %      | total %
+puts: 3623907    | 1813366    |       50.0% | 10.0%
+gets: 28982244   | 14486861   |       50.0% | 80.0%
+rems: 3625330    | 1813359    |       50.0% | 10.0%
+Sizeof   final:      64.00 KB =       0.06 MB
+[GCOLLE-99] collected: 1   | took:        143217 ti = 0.000068 s
+#txs 1	(36231481  
+#Mops 36.231
+26 2 8 50 100000000 2 1 # using: CLHT-LB-RESIZE
+## Initial: 1024 / Range: 2048
+## Num buckets: 512 
+Sizeof initial: 53.31 KB = 0.05 MB
+[ALLOC] initializing allocator with fs size: 507 objects
+[ALLOC] initializing allocator with fs size: 507 objects
+#BEFORE size: 1024
+[STATUS-00] #bu:     512 / #elems:    1016 / full%:  66.1458% / expands:  512 / max expands:  1
+[RESIZE-00] to #bu    1024 = MB:    0.06    | took:        153300 ti = 0.000073 s
+    : total      | success    | succ %      | total %
+puts: 3634842    | 1815198    |       49.9% | 10.0%
+gets: 29067505   | 14532733   |       50.0% | 80.0%
+rems: 3630429    | 1815162    |       50.0% | 10.0%
+Sizeof   final:      64.00 KB =       0.06 MB
+[GCOLLE-99] collected: 1   | took:        126591 ti = 0.000060 s
+#txs 1	(36332776  
+#Mops 36.333
+27 4 8 50 100000000 2 1 # using: CLHT-LB-RESIZE
+## Initial: 1024 / Range: 2048
+## Num buckets: 512 
+Sizeof initial: 53.31 KB = 0.05 MB
+[ALLOC] initializing allocator with fs size: 507 objects
+[ALLOC] initializing allocator with fs size: 507 objects
+#BEFORE size: 1024
+[STATUS-00] #bu:     512 / #elems:     967 / full%:  62.9557% / expands:  512 / max expands:  1
+[RESIZE-00] to #bu    1024 = MB:    0.06    | took:        174873 ti = 0.000083 s
+    : total      | success    | succ %      | total %
+puts: 3581037    | 1790652    |       50.0% | 10.0%
+gets: 28641117   | 14316606   |       50.0% | 80.0%
+rems: 3579594    | 1790661    |       50.0% | 10.0%
+Sizeof   final:      64.00 KB =       0.06 MB
+[GCOLLE-99] collected: 1   | took:         70521 ti = 0.000034 s
+#txs 1	(35765982  
+#Mops 35.766
+28 8 8 50 100000000 2 1 # using: CLHT-LB-RESIZE
+## Initial: 1024 / Range: 2048
+## Num buckets: 512 
+Sizeof initial: 53.31 KB = 0.05 MB
+[ALLOC] initializing allocator with fs size: 507 objects
+[ALLOC] initializing allocator with fs size: 507 objects
+#BEFORE size: 1024
+[STATUS-00] #bu:     512 / #elems:    1020 / full%:  66.4062% / expands:  512 / max expands:  1
+[RESIZE-00] to #bu    1024 = MB:    0.06    | took:        180762 ti = 0.000086 s
+    : total      | success    | succ %      | total %
+puts: 3631236    | 1815568    |       50.0% | 10.0%
+gets: 29044498   | 14508549   |       50.0% | 80.0%
+rems: 3633657    | 1815535    |       50.0% | 10.0%
+Sizeof   final:      64.00 KB =       0.06 MB
+[GCOLLE-99] collected: 1   | took:         72297 ti = 0.000034 s
+#txs 1	(36309391  
+#Mops 36.309
+29 16 8 50 100000000 2 1 # using: CLHT-LB-RESIZE
+## Initial: 1024 / Range: 2048
+## Num buckets: 512 
+Sizeof initial: 53.31 KB = 0.05 MB
+[ALLOC] initializing allocator with fs size: 507 objects
+[ALLOC] initializing allocator with fs size: 507 objects
+#BEFORE size: 1024
+[STATUS-00] #bu:     512 / #elems:    1033 / full%:  67.2526% / expands:  512 / max expands:  1
+[RESIZE-00] to #bu    1024 = MB:    0.06    | took:        139197 ti = 0.000066 s
+    : total      | success    | succ %      | total %
+puts: 3581758    | 1789821    |       50.0% | 10.0%
+gets: 28657045   | 14323103   |       50.0% | 80.0%
+rems: 3584147    | 1789820    |       49.9% | 10.0%
+Sizeof   final:      64.00 KB =       0.06 MB
+[GCOLLE-99] collected: 1   | took:         71376 ti = 0.000034 s
+#txs 1	(35822950  
+#Mops 35.823
+30 32 8 50 100000000 2 1 # using: CLHT-LB-RESIZE
+## Initial: 1024 / Range: 2048
+## Num buckets: 512 
+Sizeof initial: 53.31 KB = 0.05 MB
+[ALLOC] initializing allocator with fs size: 507 objects
+[ALLOC] initializing allocator with fs size: 507 objects
+#BEFORE size: 1024
+[STATUS-00] #bu:     512 / #elems:    1006 / full%:  65.4948% / expands:  512 / max expands:  1
+[RESIZE-00] to #bu    1024 = MB:    0.06    | took:        153849 ti = 0.000073 s
+    : total      | success    | succ %      | total %
+puts: 3583074    | 1790819    |       50.0% | 10.0%
+gets: 28641747   | 14333228   |       50.0% | 80.0%
+rems: 3579723    | 1790781    |       50.0% | 10.0%
+Sizeof   final:      64.00 KB =       0.06 MB
+[GCOLLE-99] collected: 1   | took:         75816 ti = 0.000036 s
+#txs 1	(35804544  
+#Mops 35.805
+31 1 10 50 100000000 2 1 # using: CLHT-LB-RESIZE
+## Initial: 1024 / Range: 2048
+## Num buckets: 512 
+Sizeof initial: 53.31 KB = 0.05 MB
+[ALLOC] initializing allocator with fs size: 507 objects
+[ALLOC] initializing allocator with fs size: 507 objects
+#BEFORE size: 1024
+[STATUS-00] #bu:     512 / #elems:    1054 / full%:  68.6198% / expands:  512 / max expands:  1
+[RESIZE-00] to #bu    1024 = MB:    0.06    | took:        129504 ti = 0.000062 s
+    : total      | success    | succ %      | total %
+puts: 3581574    | 1790883    |       50.0% | 10.0%
+gets: 28652471   | 14322661   |       50.0% | 80.0%
+rems: 3582693    | 1790902    |       50.0% | 10.0%
+Sizeof   final:      64.00 KB =       0.06 MB
+[GCOLLE-99] collected: 1   | took:         72552 ti = 0.000035 s
+#txs 1	(35816738  
+#Mops 35.817
+32 2 10 50 100000000 2 1 # using: CLHT-LB-RESIZE
+## Initial: 1024 / Range: 2048
+## Num buckets: 512 
+Sizeof initial: 53.31 KB = 0.05 MB
+[ALLOC] initializing allocator with fs size: 507 objects
+[ALLOC] initializing allocator with fs size: 507 objects
+#BEFORE size: 1024
+[STATUS-00] #bu:     512 / #elems:    1001 / full%:  65.1693% / expands:  512 / max expands:  1
+[RESIZE-00] to #bu    1024 = MB:    0.06    | took:        158334 ti = 0.000075 s
+    : total      | success    | succ %      | total %
+puts: 3611227    | 1805136    |       50.0% | 10.0%
+gets: 28875886   | 14434587   |       50.0% | 80.0%
+rems: 3609127    | 1805142    |       50.0% | 10.0%
+Sizeof   final:      64.00 KB =       0.06 MB
+[GCOLLE-99] collected: 1   | took:        140574 ti = 0.000067 s
+#txs 1	(36060180  
+#Mops 36.060
+33 4 10 50 100000000 2 1 # using: CLHT-LB-RESIZE
+## Initial: 1024 / Range: 2048
+## Num buckets: 512 
+Sizeof initial: 53.31 KB = 0.05 MB
+[ALLOC] initializing allocator with fs size: 507 objects
+[ALLOC] initializing allocator with fs size: 507 objects
+#BEFORE size: 1024
+[STATUS-00] #bu:     512 / #elems:    1088 / full%:  70.8333% / expands:  512 / max expands:  1
+[RESIZE-00] to #bu    1024 = MB:    0.06    | took:        131604 ti = 0.000063 s
+    : total      | success    | succ %      | total %
+puts: 3573038    | 1785662    |       50.0% | 10.0%
+gets: 28581860   | 14283322   |       50.0% | 80.0%
+rems: 3575596    | 1785643    |       49.9% | 10.0%
+Sizeof   final:      64.00 KB =       0.06 MB
+[GCOLLE-99] collected: 1   | took:        134064 ti = 0.000064 s
+#txs 1	(35730494  
+#Mops 35.730
+34 8 10 50 100000000 2 1 # using: CLHT-LB-RESIZE
+## Initial: 1024 / Range: 2048
+## Num buckets: 512 
+Sizeof initial: 53.31 KB = 0.05 MB
+[ALLOC] initializing allocator with fs size: 507 objects
+[ALLOC] initializing allocator with fs size: 507 objects
+#BEFORE size: 1024
+[STATUS-00] #bu:     512 / #elems:    1027 / full%:  66.8620% / expands:  512 / max expands:  1
+[RESIZE-00] to #bu    1024 = MB:    0.06    | took:        131052 ti = 0.000062 s
+    : total      | success    | succ %      | total %
+puts: 3629644    | 1815607    |       50.0% | 10.0%
+gets: 29050380   | 14528813   |       50.0% | 80.0%
+rems: 3630073    | 1815614    |       50.0% | 10.0%
+Sizeof   final:      64.00 KB =       0.06 MB
+[GCOLLE-99] collected: 1   | took:        154002 ti = 0.000073 s
+#txs 1	(36310097  
+#Mops 36.310
+35 16 10 50 100000000 2 1 # using: CLHT-LB-RESIZE
+## Initial: 1024 / Range: 2048
+## Num buckets: 512 
+Sizeof initial: 53.31 KB = 0.05 MB
+[ALLOC] initializing allocator with fs size: 507 objects
+[ALLOC] initializing allocator with fs size: 507 objects
+#BEFORE size: 1024
+[STATUS-00] #bu:     512 / #elems:    1022 / full%:  66.5365% / expands:  512 / max expands:  1
+[RESIZE-00] to #bu    1024 = MB:    0.06    | took:        131205 ti = 0.000062 s
+    : total      | success    | succ %      | total %
+puts: 3581938    | 1791326    |       50.0% | 10.0%
+gets: 28663833   | 14340210   |       50.0% | 80.0%
+rems: 3581906    | 1791311    |       50.0% | 10.0%
+Sizeof   final:      64.00 KB =       0.06 MB
+[GCOLLE-99] collected: 1   | took:        149697 ti = 0.000071 s
+#txs 1	(35827677  
+#Mops 35.828
+36 32 10 50 100000000 2 1 # using: CLHT-LB-RESIZE
+## Initial: 1024 / Range: 2048
+## Num buckets: 512 
+Sizeof initial: 53.31 KB = 0.05 MB
+[ALLOC] initializing allocator with fs size: 507 objects
+[ALLOC] initializing allocator with fs size: 507 objects
+#BEFORE size: 1024
+[STATUS-00] #bu:     512 / #elems:     969 / full%:  63.0859% / expands:  512 / max expands:  1
+[RESIZE-00] to #bu    1024 = MB:    0.06    | took:        134820 ti = 0.000064 s
+    : total      | success    | succ %      | total %
+puts: 3580068    | 1790407    |       50.0% | 10.0%
+gets: 28636504   | 14312706   |       50.0% | 80.0%
+rems: 3581582    | 1790436    |       50.0% | 10.0%
+Sizeof   final:      64.00 KB =       0.06 MB
+[GCOLLE-99] collected: 1   | took:        140799 ti = 0.000067 s
+#txs 1	(35798154  
+#Mops 35.798
+37 1 20 50 100000000 2 1 # using: CLHT-LB-RESIZE
+## Initial: 1024 / Range: 2048
+## Num buckets: 512 
+Sizeof initial: 53.31 KB = 0.05 MB
+[ALLOC] initializing allocator with fs size: 507 objects
+[ALLOC] initializing allocator with fs size: 507 objects
+#BEFORE size: 1024
+[STATUS-00] #bu:     512 / #elems:     986 / full%:  64.1927% / expands:  512 / max expands:  1
+[RESIZE-00] to #bu    1024 = MB:    0.06    | took:        131151 ti = 0.000062 s
+    : total      | success    | succ %      | total %
+puts: 3579366    | 1790504    |       50.0% | 10.0%
+gets: 28635939   | 14333767   |       50.1% | 80.0%
+rems: 3578973    | 1790484    |       50.0% | 10.0%
+Sizeof   final:      64.00 KB =       0.06 MB
+[GCOLLE-99] collected: 1   | took:        135951 ti = 0.000065 s
+#txs 1	(35794278  
+#Mops 35.794
+38 2 20 50 100000000 2 1 # using: CLHT-LB-RESIZE
+## Initial: 1024 / Range: 2048
+## Num buckets: 512 
+Sizeof initial: 53.31 KB = 0.05 MB
+[ALLOC] initializing allocator with fs size: 507 objects
+[ALLOC] initializing allocator with fs size: 507 objects
+#BEFORE size: 1024
+[STATUS-00] #bu:     512 / #elems:    1024 / full%:  66.6667% / expands:  512 / max expands:  1
+[RESIZE-00] to #bu    1024 = MB:    0.06    | took:        157092 ti = 0.000075 s
+    : total      | success    | succ %      | total %
+puts: 3606863    | 1802054    |       50.0% | 10.0%
+gets: 28847097   | 14426505   |       50.0% | 80.0%
+rems: 3604889    | 1802019    |       50.0% | 10.0%
+Sizeof   final:      64.00 KB =       0.06 MB
+[GCOLLE-99] collected: 1   | took:        137277 ti = 0.000065 s
+#txs 1	(36058849  
+#Mops 36.059
+39 4 20 50 100000000 2 1 # using: CLHT-LB-RESIZE
+## Initial: 1024 / Range: 2048
+## Num buckets: 512 
+Sizeof initial: 53.31 KB = 0.05 MB
+[ALLOC] initializing allocator with fs size: 507 objects
+[ALLOC] initializing allocator with fs size: 507 objects
+#BEFORE size: 1024
+[STATUS-00] #bu:     512 / #elems:    1048 / full%:  68.2292% / expands:  512 / max expands:  1
+[RESIZE-00] to #bu    1024 = MB:    0.06    | took:        132054 ti = 0.000063 s
+    : total      | success    | succ %      | total %
+puts: 3578642    | 1790558    |       50.0% | 10.0%
+gets: 28631349   | 14329194   |       50.0% | 80.0%
+rems: 3577408    | 1790602    |       50.1% | 10.0%
+Sizeof   final:      64.00 KB =       0.06 MB
+[GCOLLE-99] collected: 1   | took:         74298 ti = 0.000035 s
+#txs 1	(35787399  
+#Mops 35.787
+40 8 20 50 100000000 2 1 # using: CLHT-LB-RESIZE
+## Initial: 1024 / Range: 2048
+## Num buckets: 512 
+Sizeof initial: 53.31 KB = 0.05 MB
+[ALLOC] initializing allocator with fs size: 507 objects
+[ALLOC] initializing allocator with fs size: 507 objects
+#BEFORE size: 1024
+[STATUS-00] #bu:     512 / #elems:     995 / full%:  64.7786% / expands:  512 / max expands:  1
+[RESIZE-00] to #bu    1024 = MB:    0.06    | took:        154911 ti = 0.000074 s
+    : total      | success    | succ %      | total %
+puts: 3606980    | 1802953    |       50.0% | 10.0%
+gets: 28851680   | 14427809   |       50.0% | 80.0%
+rems: 3606007    | 1802930    |       50.0% | 10.0%
+Sizeof   final:      64.00 KB =       0.06 MB
+[GCOLLE-99] collected: 1   | took:        137406 ti = 0.000065 s
+#txs 1	(36064667  
+#Mops 36.065
+41 16 20 50 100000000 2 1 # using: CLHT-LB-RESIZE
+## Initial: 1024 / Range: 2048
+## Num buckets: 512 
+Sizeof initial: 53.31 KB = 0.05 MB
+[ALLOC] initializing allocator with fs size: 507 objects
+[ALLOC] initializing allocator with fs size: 507 objects
+#BEFORE size: 1024
+[STATUS-00] #bu:     512 / #elems:    1030 / full%:  67.0573% / expands:  512 / max expands:  1
+[RESIZE-00] to #bu    1024 = MB:    0.06    | took:        127503 ti = 0.000061 s
+    : total      | success    | succ %      | total %
+puts: 3580347    | 1789343    |       50.0% | 10.0%
+gets: 28654325   | 14327942   |       50.0% | 80.0%
+rems: 3580959    | 1789357    |       50.0% | 10.0%
+Sizeof   final:      64.00 KB =       0.06 MB
+[GCOLLE-99] collected: 1   | took:        135831 ti = 0.000065 s
+#txs 1	(35815631  
+#Mops 35.816
+42 32 20 50 100000000 2 1 # using: CLHT-LB-RESIZE
+## Initial: 1024 / Range: 2048
+## Num buckets: 512 
+Sizeof initial: 53.31 KB = 0.05 MB
+[ALLOC] initializing allocator with fs size: 507 objects
+[ALLOC] initializing allocator with fs size: 507 objects
+#BEFORE size: 1024
+[STATUS-00] #bu:     512 / #elems:    1029 / full%:  66.9922% / expands:  512 / max expands:  1
+[RESIZE-00] to #bu    1024 = MB:    0.06    | took:        158691 ti = 0.000076 s
+    : total      | success    | succ %      | total %
+puts: 3582483    | 1791276    |       50.0% | 10.0%
+gets: 28648213   | 14331983   |       50.0% | 80.0%
+rems: 3582145    | 1791266    |       50.0% | 10.0%
+Sizeof   final:      64.00 KB =       0.06 MB
+[GCOLLE-99] collected: 1   | took:        159117 ti = 0.000076 s
+#txs 1	(35812841  
+#Mops 35.813
+43 1 50 50 100000000 2 1 # using: CLHT-LB-RESIZE
+## Initial: 1024 / Range: 2048
+## Num buckets: 512 
+Sizeof initial: 53.31 KB = 0.05 MB
+[ALLOC] initializing allocator with fs size: 507 objects
+[ALLOC] initializing allocator with fs size: 507 objects
+#BEFORE size: 1024
+[STATUS-00] #bu:     512 / #elems:    1001 / full%:  65.1693% / expands:  512 / max expands:  1
+[RESIZE-00] to #bu    1024 = MB:    0.06    | took:        157359 ti = 0.000075 s
+    : total      | success    | succ %      | total %
+puts: 3578914    | 1789995    |       50.0% | 10.0%
+gets: 28657668   | 14312327   |       49.9% | 80.0%
+rems: 3581211    | 1789984    |       50.0% | 10.0%
+Sizeof   final:      64.00 KB =       0.06 MB
+[GCOLLE-99] collected: 1   | took:        148686 ti = 0.000071 s
+#txs 1	(35817793  
+#Mops 35.818
+44 2 50 50 100000000 2 1 # using: CLHT-LB-RESIZE
+## Initial: 1024 / Range: 2048
+## Num buckets: 512 
+Sizeof initial: 53.31 KB = 0.05 MB
+[ALLOC] initializing allocator with fs size: 507 objects
+[ALLOC] initializing allocator with fs size: 507 objects
+#BEFORE size: 1024
+[STATUS-00] #bu:     512 / #elems:    1032 / full%:  67.1875% / expands:  512 / max expands:  1
+[RESIZE-00] to #bu    1024 = MB:    0.06    | took:        133884 ti = 0.000064 s
+    : total      | success    | succ %      | total %
+puts: 3605943    | 1804402    |       50.0% | 10.0%
+gets: 28867492   | 14429673   |       50.0% | 80.0%
+rems: 3606580    | 1804406    |       50.0% | 10.0%
+Sizeof   final:      64.00 KB =       0.06 MB
+[GCOLLE-99] collected: 1   | took:         75459 ti = 0.000036 s
+#txs 1	(36080015  
+#Mops 36.080
+45 4 50 50 100000000 2 1 # using: CLHT-LB-RESIZE
+## Initial: 1024 / Range: 2048
+## Num buckets: 512 
+Sizeof initial: 53.31 KB = 0.05 MB
+[ALLOC] initializing allocator with fs size: 507 objects
+[ALLOC] initializing allocator with fs size: 507 objects
+#BEFORE size: 1024
+[STATUS-00] #bu:     512 / #elems:    1043 / full%:  67.9036% / expands:  512 / max expands:  1
+[RESIZE-00] to #bu    1024 = MB:    0.06    | took:        143169 ti = 0.000068 s
+    : total      | success    | succ %      | total %
+puts: 3578623    | 1790142    |       50.0% | 10.0%
+gets: 28634120   | 14307412   |       50.0% | 80.0%
+rems: 3580469    | 1790113    |       50.0% | 10.0%
+Sizeof   final:      64.00 KB =       0.06 MB
+[GCOLLE-99] collected: 1   | took:         92958 ti = 0.000044 s
+#txs 1	(35793212  
+#Mops 35.793
+46 8 50 50 100000000 2 1 # using: CLHT-LB-RESIZE
+## Initial: 1024 / Range: 2048
+## Num buckets: 512 
+Sizeof initial: 53.31 KB = 0.05 MB
+[ALLOC] initializing allocator with fs size: 507 objects
+[ALLOC] initializing allocator with fs size: 507 objects
+#BEFORE size: 1024
+[STATUS-00] #bu:     512 / #elems:    1051 / full%:  68.4245% / expands:  512 / max expands:  1
+[RESIZE-00] to #bu    1024 = MB:    0.06    | took:        149478 ti = 0.000071 s
+    : total      | success    | succ %      | total %
+puts: 3602636    | 1801911    |       50.0% | 10.0%
+gets: 28829288   | 14413712   |       50.0% | 80.0%
+rems: 3604004    | 1801934    |       50.0% | 10.0%
+Sizeof   final:      64.00 KB =       0.06 MB
+[GCOLLE-99] collected: 1   | took:        154734 ti = 0.000074 s
+#txs 1	(36035928  
+#Mops 36.036
+47 16 50 50 100000000 2 1 # using: CLHT-LB-RESIZE
+## Initial: 1024 / Range: 2048
+## Num buckets: 512 
+Sizeof initial: 53.31 KB = 0.05 MB
+[ALLOC] initializing allocator with fs size: 507 objects
+[ALLOC] initializing allocator with fs size: 507 objects
+#BEFORE size: 1024
+[STATUS-00] #bu:     512 / #elems:    1068 / full%:  69.5312% / expands:  512 / max expands:  1
+[RESIZE-00] to #bu    1024 = MB:    0.06    | took:        133959 ti = 0.000064 s
+    : total      | success    | succ %      | total %
+puts: 3581364    | 1791278    |       50.0% | 10.0%
+gets: 28648541   | 14314374   |       50.0% | 80.0%
+rems: 3584260    | 1791270    |       50.0% | 10.0%
+Sizeof   final:      64.00 KB =       0.06 MB
+[GCOLLE-99] collected: 1   | took:         70233 ti = 0.000033 s
+#txs 1	(35814165  
+#Mops 35.814
+48 32 50 50 100000000 2 1 
